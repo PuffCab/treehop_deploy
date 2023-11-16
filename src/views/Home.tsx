@@ -1,4 +1,4 @@
-import { useContext } from "react";
+// import { useContext } from "react";
 import { CharactersContext } from "../context/CharactersContext";
 import { AuthContext } from "../context/AuthContext";
 
